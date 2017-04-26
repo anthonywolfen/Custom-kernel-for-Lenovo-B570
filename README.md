@@ -1,1 +1,2 @@
 Custom kernel for Lenovo B570 (Intel Core i3-2330M;Atheros AR9285;Intel HD Graphics 3000 only,no nvidia supported;HDD)
+This kernel boots in 2.3sec(kernel only wihout userspace) and everything works fine.
